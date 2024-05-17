@@ -75,3 +75,8 @@ Trainable params: 27594 (107.79 KB)
 Non-trainable params: 0 (0.00 Byte)
 _________________________________________________________________
 ```
+## Accuracy on Testing Data is
+```
+0.982200026512146
+```
+Which is very good for a classification task
