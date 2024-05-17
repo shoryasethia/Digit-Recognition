@@ -80,3 +80,5 @@ _________________________________________________________________
 0.982200026512146
 ```
 Which is very good for a classification task
+
+## Saved Model can be accessed and used from [here](https://github.com/shoryasethia/Tensorflow-CNN-MNIST/blob/main/MNIST-numbers-cnn.h5)
