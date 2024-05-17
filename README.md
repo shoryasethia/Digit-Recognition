@@ -1,12 +1,11 @@
-# Neural-Network-Mnist-Dataset
-Repository dedicated to the classification of the minist database using neural networks.
+# Convolutional Neural Networks on MNIST Dataset
 
 ## Installation
 
 Clone this repository:
 
 ```bash
-git clone https://github.com/shoryasethia/MNIST-Integer-NeuralNetwork
+git clone https://github.com/shoryasethia/Tensorflow-CNN-MNIST
 ```
 
 ## Implementation
@@ -16,13 +15,9 @@ git clone https://github.com/shoryasethia/MNIST-Integer-NeuralNetwork
 The MNIST Data set is usually used to measure the efficiency of an algorithm in classifying images, so it was chosen to be the data set to be classified.
 ### Or run the code
 ```
-import torchvision
-from torchvision import transforms, datasets
+import tensorlow as tf
+from tensorflow.keras import datasets, models, layers
 
-train = datasets.MNIST("", train=True, download=True,
-                       transform=transforms.Compose([transforms.ToTensor()]))
-
-test=datasets.MNIST("", download=True,train=False,
-                    transform=transforms.Compose([transforms.ToTensor()]))
+(X_train, y_train), (X_test,y_test) = datasets.mnist.load_data()
 ```
 
