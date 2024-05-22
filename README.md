@@ -1,11 +1,12 @@
 # Convolutional Neural Networks on MNIST Dataset
+Every notebook in this repo uses Tensorflow and Keras
 
 ## Installation
 
 Clone this repository:
 
 ```bash
-git clone https://github.com/shoryasethia/Tensorflow-CNN-MNIST
+git clone https://github.com/shoryasethia/Modified-CNN-MNIST
 ```
 
 ### Download Dataset from [here](https://www.tensorflow.org/datasets/catalog/mnist)
