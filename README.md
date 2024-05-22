@@ -21,7 +21,7 @@ from tensorflow.keras import datasets, models, layers
 Digit Recognition via MNIST Dataset is like "Hello World" of Deep Learning or Classification tasks. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. People beleive that if the architecture works poorly on MNIST it won't work on other dataset at all, but if it works on MNIST doesn't ensure that it would work on other datasets as well. 
 
 
-# The table below collects the some benchmarks on MNIST. Note that I have tested these results on my system. You are welcome to validate the results using the code provided by me. Test accuracy may differ due to the number of epoch, batch size, etc. To correct/Add this table, please create a new issue.
+> The table below collects the some benchmarks on MNIST. Note that I have tested these results on my system. You are welcome to validate the results using the code provided by me. Test accuracy may differ due to the number of epoch, batch size, etc. To correct/Add this table, please create a new issue.
 
 Architecture | Model      | Notebook | Accuracy | 
 |------------|-----|-------------|---------------|
