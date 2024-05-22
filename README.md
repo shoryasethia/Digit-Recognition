@@ -18,6 +18,7 @@ from tensorflow.keras import datasets, models, layers
 
 (X_train, y_train), (X_test,y_test) = datasets.mnist.load_data()
 ```
+![MNIST](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/MNIST.png)
 Digit Recognition via MNIST Dataset is like "Hello World" of Deep Learning or Classification tasks. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. People beleive that if the architecture works poorly on MNIST it won't work on other dataset at all, but if it works on MNIST doesn't ensure that it would work on other datasets as well. 
 
 
