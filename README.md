@@ -29,7 +29,7 @@ Architecture | Model | Total Parameters |Notebook | Accuracy |
 |------------|-----|-----|--------|---------------|
 | 3 Conv + 2 Pooling + 3 FC + softmax   | [🔗](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/MNIST-numbers-cnn.h5) | 27594 |[.ipynb](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/tensorflow-mnist-cnn.ipynb)    | 0.9822000265121460 |
 | 2 Conv + 2 Pooling + 2 FC + softmax | [LeNet-5](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/LeNet-DigitRecognition.h5)  | 28844 | [.ipynb](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/LeNet-5-digit.ipynb) | 0.9883000254631042 |
-| 8 Conv + 3 Pooling + 3 FC + softmax | [Vgg](https://drive.google.com/file/d/1zZLbWNlx9GqmjadEgOLM3uRrK5i_DYqe/view?usp=sharing) | 6558346 | [.ipynb](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/cnn-mnist.ipynb)| 0.9894999861717224 |
+| 8 Conv + 3 Pooling + 3 FC + softmax | [Vgg](https://github.com/shoryasethia/Digit-Recognition/blob/main/Vgg) | 6558346 | [.ipynb](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/cnn-mnist.ipynb)| 0.9894999861717224 |
 
 ### Owner : [@shoryasethia](https://github.com/shoryasethia)
 If you liked anything from [this](https://github.com/shoryasethia/Digit-Recognition) repo, leave a Star.
