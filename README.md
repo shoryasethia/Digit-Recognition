@@ -6,7 +6,7 @@ Every notebook in this repo uses Tensorflow and Keras
 Clone this repository:
 
 ```bash
-git clone https://github.com/shoryasethia/Modified-CNN-MNIST
+git clone https://github.com/shoryasethia/Digit-Recognition
 ```
 
 ### Download Dataset from [here](https://www.tensorflow.org/datasets/catalog/mnist)
