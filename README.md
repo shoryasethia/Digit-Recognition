@@ -8,9 +8,7 @@ Clone this repository:
 git clone https://github.com/shoryasethia/Tensorflow-CNN-MNIST
 ```
 
-## Implementation
-
-### [Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+### Download Dataset from [here](https://www.tensorflow.org/datasets/catalog/mnist)
 
 ### Or run the code
 ```
@@ -19,7 +17,7 @@ from tensorflow.keras import datasets, models, layers
 
 (X_train, y_train), (X_test,y_test) = datasets.mnist.load_data()
 ```
-## Sequential I used is 
+## Model Sequential I used is 
 ```
 cnn = models.Sequential([
     layers.Conv2D(filters=64, kernel_size=(3, 3), activation='relu', input_shape=(28, 28, 1)),
