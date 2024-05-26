@@ -16,7 +16,7 @@ git clone https://github.com/shoryasethia/Digit-Recognition
 import tensorlow as tf
 from tensorflow.keras import datasets, models, layers
 
-(X_train, y_train), (X_test,y_test) = datasets.mnist.load_data()
+(train_img, train_label), (test_img,test_label) = datasets.mnist.load_data()
 ```
 ![MNIST](https://github.com/shoryasethia/Modified-CNN-MNIST/blob/main/MNIST.png)
 
