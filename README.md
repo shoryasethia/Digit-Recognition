@@ -27,10 +27,10 @@ The table below collects the some benchmarks on MNIST. Note that I have tested t
 
 Architecture | Model | Total Parameters |Notebook | Accuracy | 
 |------------|-----|-----|--------|---------------|
-| MLP-3 | [🔗](https://github.com/shoryasethia/Digit-Recognition/blob/main/mlp-mnist.h5) | 27594 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/MLP.ipynb)    | 0.9822000265121460 |
-| 3 Conv + 2 Pooling + 3 FC + softmax   | [🔗](https://github.com/shoryasethia/Digit-Recognition/blob/main/MNIST-numbers-cnn.h5) | 27594 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/tensorflow-mnist-cnn.ipynb)    | 0.9822000265121460 |
-| 2 Conv + 2 Pooling + 2 FC + softmax | [LeNet-5](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet-DigitRecognition.h5)  | 28844 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet-5-digit.ipynb) | 0.9883000254631042 |
-| 8 Conv + 3 Pooling + 3 FC + softmax | [Vgg](https://github.com/shoryasethia/Digit-Recognition/blob/main/Vgg) | 6558346 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/cnn-mnist.ipynb)| 0.9894999861717224 |
+| MLP-3 | [🔗](https://github.com/shoryasethia/Digit-Recognition/blob/main/mlp-mnist.h5) | 44,47,220 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/MLP.ipynb)    | 0.9768999814987183 |
+| 3 Conv + 2 Pooling + 3 FC + softmax   | [🔗](https://github.com/shoryasethia/Digit-Recognition/blob/main/MNIST-numbers-cnn.h5) | 27,594 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/tensorflow-mnist-cnn.ipynb)    | 0.9822000265121460 |
+| 2 Conv + 2 Pooling + 2 FC + softmax | [LeNet-5](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet-DigitRecognition.h5)  | 28,844 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet-5-digit.ipynb) | 0.9883000254631042 |
+| 8 Conv + 3 Pooling + 3 FC + softmax | [Vgg](https://github.com/shoryasethia/Digit-Recognition/blob/main/Vgg) | 65,58,346 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/cnn-mnist.ipynb)| 0.9894999861717224 |
 
 ### Owner : [@shoryasethia](https://github.com/shoryasethia)
 If you liked anything from [this](https://github.com/shoryasethia/Digit-Recognition) repo, leave a Star.
