@@ -28,7 +28,7 @@ The table below collects the some benchmarks on MNIST. Note that I have tested t
 Architecture | Model | Total Parameters |Notebook | Accuracy | 
 |------------|-----|-----|--------|---------------|
 | MLP-3 + Dropouts | [MLP-3](https://github.com/shoryasethia/Digit-Recognition/blob/main/mlp-mnist.h5) | 44,47,220 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/MLP.ipynb)    | 0.9768999814987183 |
-| 3 Conv + 2 Pooling + 3 FC + softmax   | [🔗](https://github.com/shoryasethia/Digit-Recognition/blob/main/MNIST-numbers-cnn.h5) | 27,594 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/tensorflow-mnist-cnn.ipynb)    | 0.9822000265121460 |
+| 3 Conv + 2 Pooling + 3 FC + softmax   | [ConvNet](https://github.com/shoryasethia/Digit-Recognition/blob/main/MNIST-numbers-cnn.h5) | 27,594 |[.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/tensorflow-mnist-cnn.ipynb)    | 0.9822000265121460 |
 | 2 Conv + 2 Pooling + 2 FC + softmax | [LeNet-5](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet5.h5) [Weights](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet5.weights.h5)  | 61,706 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/LeNet-5-digit.ipynb) | 0.9868000149726868 |
 | 8 Conv + 3 Pooling + 3 FC + softmax | [Vgg](https://github.com/shoryasethia/Digit-Recognition/blob/main/Vgg) | 65,58,346 | [.ipynb](https://github.com/shoryasethia/Digit-Recognition/blob/main/cnn-mnist.ipynb)| 0.9894999861717224 |
 
